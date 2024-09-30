@@ -3,7 +3,9 @@ layout: single
 title:  "Programmers_폰켓몬(Hash, Dictionary)"
 ---
 
+### 프로그래머스 폰켓몬
 ## 딕셔너리(Key-Value)를 사용한 파이썬 풀이
+
 
 ```python
 def solution(nums):
